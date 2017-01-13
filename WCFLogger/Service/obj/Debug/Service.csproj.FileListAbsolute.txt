@@ -1,0 +1,7 @@
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\Service\bin\Service.dll
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\Service\bin\Service.pdb
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\Service\obj\Debug\Service.dll
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\Service\obj\Debug\Service.pdb
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\Service\bin\WcfLogManager.dll
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\Service\bin\WcfLogManager.pdb

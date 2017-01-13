@@ -1,0 +1,5 @@
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\ConsoleClient\bin\Debug\ConsoleClient.exe
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\ConsoleClient\bin\Debug\ConsoleClient.pdb
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\ConsoleClient\obj\Debug\ConsoleClient.exe
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\ConsoleClient\obj\Debug\ConsoleClient.pdb

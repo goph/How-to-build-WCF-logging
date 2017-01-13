@@ -1,0 +1,23 @@
+C:\DEV\WCF\HostingWCFCS\HostingWCFCS\HostingServicesDemo Completed\WcfLogManager\bin\Debug\WcfLogManager.dll.config
+C:\DEV\WCF\HostingWCFCS\HostingWCFCS\HostingServicesDemo Completed\WcfLogManager\bin\Debug\WcfLogManager.dll
+C:\DEV\WCF\HostingWCFCS\HostingWCFCS\HostingServicesDemo Completed\WcfLogManager\bin\Debug\WcfLogManager.pdb
+C:\DEV\WCF\HostingWCFCS\HostingWCFCS\HostingServicesDemo Completed\WcfLogManager\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV\WCF\HostingWCFCS\HostingWCFCS\HostingServicesDemo Completed\WcfLogManager\obj\Debug\WcfLogManager.dll
+C:\DEV\WCF\HostingWCFCS\HostingWCFCS\HostingServicesDemo Completed\WcfLogManager\obj\Debug\WcfLogManager.pdb
+D:\DATA\APTEA WCF\HostingServicesDemo Completed\WcfLogManager\bin\Debug\WcfLogManager.dll.config
+D:\DATA\APTEA WCF\HostingServicesDemo Completed\WcfLogManager\bin\Debug\WcfLogManager.dll
+D:\DATA\APTEA WCF\HostingServicesDemo Completed\WcfLogManager\bin\Debug\WcfLogManager.pdb
+D:\DATA\APTEA WCF\HostingServicesDemo Completed\WcfLogManager\obj\Debug\WcfLogManager.csprojResolveAssemblyReference.cache
+D:\DATA\APTEA WCF\HostingServicesDemo Completed\WcfLogManager\obj\Debug\WcfLogManager.dll
+D:\DATA\APTEA WCF\HostingServicesDemo Completed\WcfLogManager\obj\Debug\WcfLogManager.pdb
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WcfLogManager\bin\Debug\WcfLogManager.dll.config
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WcfLogManager\bin\Debug\WcfLogManager.dll
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WcfLogManager\bin\Debug\WcfLogManager.pdb
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WcfLogManager\obj\Debug\WcfLogManager.csprojResolveAssemblyReference.cache
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WcfLogManager\obj\Debug\WcfLogManager.dll
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WcfLogManager\obj\Debug\WcfLogManager.pdb
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\WcfLogManager\bin\Debug\WcfLogManager.dll.config
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\WcfLogManager\bin\Debug\WcfLogManager.dll
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\WcfLogManager\bin\Debug\WcfLogManager.pdb
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\WcfLogManager\obj\Debug\WcfLogManager.dll
+D:\DATA\BLOG LOGCORNER\WCF\LOG\WCFLogger\WcfLogManager\obj\Debug\WcfLogManager.pdb
